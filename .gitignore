@@ -1,7 +1,6 @@
 .DS_Store
 dogImages/
 lfw/
-saved_models/weights.best.vgg19.hdf5
-saved_models/weights.best.vgg16.hdf5
+saved_models/
 .ipynb_checkpoints/
 bottleneck_features/
